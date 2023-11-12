@@ -8,10 +8,7 @@ This project was created for me to practice working on using HTML semantic tags.
 - I built this project to better my HTML skills and using semantic elements.
 - From this project I learned how to properly use HTML semantic elements to make a website more accessible to users, how to use better practices to reduce the amount of code in the codebase, and utilize comments to make my code even more readable for other potential developers.
 
-![Image of Horiseon Project](./assets/images/Horiseon_Project.png)
-
-
-![Image of Horiseon Project Footer](./assets/images/Horiseon_Project_Footer.png)
+![Image of Horiseon Project](./assets/images/Horiseon_Project.webp)
 
 
 ## Technologies Used
