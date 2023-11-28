@@ -1,8 +1,7 @@
 # Horiseon-Project
 
 ### Description
-
-This project was created for me to practice working on using HTML semantic tags.
+Established with the primary goal of honing my skills, this project is a dedicated endeavor to practice utilizing HTML semantic tags. Through hands-on engagement with these tags, I aimed to deepen my understanding and proficiency in structuring web content in a semantically meaningful way.
 
 - My motivation for this project was being able to apply the skills I learned to this project.
 - I built this project to better my HTML skills and using semantic elements.
