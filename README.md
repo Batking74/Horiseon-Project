@@ -1,7 +1,7 @@
 # Horiseon-Project
 
 ### Description
-Established with the primary goal of honing my skills, this project is a dedicated endeavor to practice utilizing HTML semantic tags. Through hands-on engagement with these tags, I aimed to deepen my understanding and proficiency in structuring web content in a semantically meaningful way.
+Established With The Primary Goal Of Honing My Skills, This Project Is A Dedicated Endeavor To Practice Utilizing HTML Semantic Tags. Through Hands-On Engagement With These Tags, I Aimed To Deepen My Understanding And Proficiency In Structuring Web Content In A Semantically Meaningful Way. Additionally, I Took Performance Optimization To The Next Level By Implementing Image Compression Techniques, Ensuring Faster Loading Times And An Enhanced User Experience. These Efforts Resulted In Boosted Lighthouse Scores, Emphasizing Not Only The Semantic Structure Of The Content But Also The Commitment To Delivering An Efficient And High-Performing Website.
 
 - My motivation for this project was being able to apply the skills I learned to this project.
 - I built this project to better my HTML skills and using semantic elements.
